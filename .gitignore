@@ -9,3 +9,6 @@ env/
 # IDE workspace files
 .idea/
 .vscode/
+
+# Local dataset preparation dependencies
+scripts/_dataset_deps/
